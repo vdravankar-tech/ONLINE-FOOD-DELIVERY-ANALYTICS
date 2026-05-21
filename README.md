@@ -231,8 +231,8 @@ This project demonstrates how analytics can help food delivery businesses:
 **Vishnu Ravankar**  
 Aspiring Data Analyst | Credit Analytics Professional  
 
-GitHub: https://github.com/
-LinkedIn: 
+GitHub: https://github.com/vdravankar-tech
+LinkedIn: https://www.linkedin.com/in/vishnu-ravankar-471275b6
 
 ---
 
