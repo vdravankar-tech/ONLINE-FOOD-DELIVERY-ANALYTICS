@@ -186,16 +186,19 @@ Most used payment methods:
 
 ## 📂 Project Structure
 
-```text
 Online-Food-Delivery-Analytics/
 │
 ├── README.md
 ├── dashboard.png
 ├── queries.sql
-├── dataset.csv
-├── Online_Food_Delivery.pbix
-```
-
+│
+├── data/
+│   ├── customers.csv
+│   ├── restaurants.csv
+│   ├── orders.csv
+│   ├── order_items.csv
+│   ├── delivery_agents.csv
+│
 ---
 
 ## 📌 Business Impact
@@ -229,7 +232,7 @@ This project demonstrates how analytics can help food delivery businesses:
 ## 🤝 Connect With Me
 
 **Vishnu Ravankar**  
-Aspiring Data Analyst | Credit Analytics Professional  
+Credit Analytics & Data Professional · SQL · Excel · Power BI · Financial Data Analysis · 3.5 Yrs in Credit Risk & Underwriting
 
 GitHub: https://github.com/vdravankar-tech
 LinkedIn: https://www.linkedin.com/in/vishnu-ravankar-471275b6
