@@ -183,9 +183,9 @@ Most used payment methods:
 - Performance Optimization
 
 ---
-
 ## 📂 Project Structure
 
+```text
 Online-Food-Delivery-Analytics/
 │
 ├── README.md
@@ -199,7 +199,10 @@ Online-Food-Delivery-Analytics/
 │   ├── order_items.csv
 │   ├── delivery_agents.csv
 │
----
+├── Online_Food_Delivery.pbix
+```
+
+
 
 ## 📌 Business Impact
 
